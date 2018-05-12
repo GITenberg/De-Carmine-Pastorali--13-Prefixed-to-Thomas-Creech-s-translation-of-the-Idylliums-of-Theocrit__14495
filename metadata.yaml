@@ -1,0 +1,51 @@
+_repo: De-Carmine-Pastorali--13-Prefixed-to-Thomas-Creech-s-translation-of-the-Idylliums-of-Theocrit__14495
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Congleton, J. E. (James Edmund)
+    alias: Congleton, James Edmund
+    gutenberg_agent_id: '26517'
+    url: http://www.gutenberg.org/2009/agents/26517
+  translator:
+    agent_name: Creech, Thomas
+    birthdate: 1659
+    deathdate: 1700
+    gutenberg_agent_id: '35379'
+    url: http://www.gutenberg.org/2009/agents/35379
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Creech
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rapin, René
+    aliases:
+    - Rapin, Rene
+    - Rapin, R. (René)
+    - Rapinus, Renatus
+    birthdate: 1621
+    deathdate: 1687
+    gutenberg_agent_id: '5549'
+    url: http://www.gutenberg.org/2009/agents/5549
+    wikipedia: http://en.wikipedia.org/wiki/Ren%C3%A9_Rapin
+description: "First published in Latin, with Rapin's eclogues, under the title: Eclogae,\
+  \ cum dissertatione de carmine pastorali. Parisiis, apud S. Cramoisy, 1659.\r\n\
+  The English translation by Thomas Creech, prefixed to his translation of the Idylliums\
+  \ of Theocritus, appeared in 1684."
+gutenberg_issued: '2004-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14495'
+language: en
+publication_note: 'Los Angeles :  The Augustan Reprint Society,  1947'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Augustan Reprint Society, publication number 08
+subjects:
+- !lcc 'PN'
+- !lcsh 'Pastoral poetry -- History and criticism'
+- !lcsh 'Theocritus. Idylls'
+title: "De Carmine Pastorali\r\nPrefixed to Thomas Creech's translation of the Idylliums\
+  \ of Theocritus (1684)"
+url: http://www.gutenberg.org/ebooks/14495
